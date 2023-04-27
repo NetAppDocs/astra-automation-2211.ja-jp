@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: rn/known_issues.html 
+keywords: known issues, issues, bugs, fixes 
+summary: Astra Control REST API に関連する現在のリリースの既知の問題をすべて確認しておく必要があります。ここでは、この製品の正常な使用を妨げる可能性のある既知の問題について記載します。 
+---
+= 既知の問題
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Astra Control REST API に関連する現在のリリースの既知の問題をすべて確認しておく必要があります。ここでは、この製品の正常な使用を妨げる可能性のある既知の問題について記載します。
+
+
+NOTE: Astra Control REST APIの23.01リリースに既知の新しい問題はありません。以下に記載する問題は以前のリリースで見つかったため、現在のリリースにも該当します。
+
+導入モデルに応じて、次のいずれかのページを参照してください。
+
+* https://docs.netapp.com/us-en/astra-control-service/release-notes/known-issues.html["Astra Control Serviceの既知の問題"^]
+* https://docs.netapp.com/us-en/astra-control-center-2211/release-notes/known-issues.html["Astra Control Center 22.11の既知の問題"^]
+
